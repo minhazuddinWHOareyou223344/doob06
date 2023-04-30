@@ -1,0 +1,189 @@
+@media (min-width:320px) and (max-width:768px) {
+    #about h1{
+        font-size: 70px;
+        font-weight: 600;
+        width: 100%;
+    }
+    #about .abouttext p{
+        font-size: 30px;
+    }
+    #portfolio{
+        position: relative;
+        
+       
+    }
+    #portfolio .portfoliotext h1{
+        font-size: 45px;
+        font-weight: 600;
+        width: 500px;
+     position: absolute;
+     top:-200px;
+     left: -200px;
+ }
+ #portfolio .portfoliotext a{
+    width: 200px;
+    margin: -100px;
+    margin-top: 30px;
+   
+
+ }
+ 
+ #portfolio .portfoliocard h3 {
+  width: 300px;
+ margin-left: -150px;
+ font-size: 50px;
+
+
+   
+ } 
+ #portfolio .portfoliocard img{
+   margin-left: -150px; 
+  
+
+ }
+ #portfolio .portfoliocard p{
+    width: 400px;
+    font-size: 30px;
+    margin-left: -150px;
+ }
+ #our .ourimg  img{
+    display: inline-block;
+    width: 500px;
+    margin-left: -150px;
+    margin-top: -50px;
+ }
+ #our .ourtext h5{
+    width: 300px;
+    font-size: 30px;
+    margin-left: -100px;
+    margin-top: 30px;
+ }
+ #our .ourtext h1{
+    width: 400px;
+    margin-left: -150px;
+ }
+ #our .ourtext p{
+    width: 400px;
+    margin-left: -150px;
+    font-size: 30px;
+ }
+ #blog h1{
+    width: 400px;
+    margin-top: -300px;
+    font-size: 48px;
+    margin-left: -100px;
+ }
+ #blog .blogimg img{
+    width: 500px;
+    display: inline-block;
+    margin-left: -100px;
+ }
+ #blog h4{
+    width: 400px;
+    font-size: 50px;
+    margin-left: -80px;
+    border: 1px solid black;
+    border-radius: 30px;
+ }
+ #stories h4{
+    font-size: 30px;
+    width: 300px;
+ }
+ #stories h1{
+    width: 400px;
+    margin-left: -80px;
+
+ }
+ #stories .storiestree {
+padding: 0px 250px;
+margin-left: -50px;
+
+   
+ }
+ #stories .storiestree h5{
+    width: 400px;
+    font-size: 30px;
+    margin-left: -100px;
+ }
+ #stories .storiestree h6{
+    width: 400px;
+    font-size: 20px;
+    margin-left: -100px;
+ }
+ #stories .storiestree p{
+    width: 400px;
+    height: 800px;
+    font-size: 20px;
+    margin-left: -200px;
+ }
+ #stories .storiesone{
+    padding: 0px 250px;
+   
+margin-left: -50px;
+ }
+ 
+ #stories .storiesone h5{
+    width: 400px;
+    font-size: 30px;
+    margin-left: -100px;
+ }
+ #stories .storiesone h6{
+    width: 400px;
+    font-size: 20px;
+    margin-left: -100px;
+ }
+ #stories .storiesone p{
+    width: 400px;
+    height: 800px;
+    font-size: 20px;
+    margin-left: -200px;
+ }
+ #stories .storiestwo{
+    padding: 0px 250px;
+    margin-left: -50px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    transition: 1s;
+    margin-top: 50%;
+ }
+ #stories .storiestwo h5{
+    width: 400px;
+    font-size: 30px;
+    margin-left: -100px;
+ }
+ #stories .storiestwo h6{
+    width: 400px;
+    font-size: 20px;
+    margin-left: -100px;
+ }
+ #stories .storiestwo p{
+    width: 400px;
+    height: 800px;
+    font-size: 20px;
+    margin-left: -200px;
+ }
+ #contact h5{
+    font-size: 30px ;
+    margin: 80px;
+    width: 400px;
+ }
+ #contact h1{
+font-size: 48px;
+width: 400px;
+margin-bottom: 50px;
+ }
+ #contact .formone input{
+    width: 550px;
+    margin-left: -50px;
+ }
+ #contact .formtwo input{
+    width: 550px;
+    margin-left: -50px;
+    height: 80px;
+ }
+ #contact .formtree input{
+    width: 550px;
+    margin-left: -50px;
+   
+ }
+ 
+}
